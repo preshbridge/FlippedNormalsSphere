@@ -1,0 +1,17 @@
+@"
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]ackages/com.unity.collab-proxy/
+UserSettings/
+MemoryCaptures/
+.vs/
+.idea/
+*.csproj
+*.sln
+.DS_Store
+*.unitypackage
+"@ | Out-File -Encoding utf8 .gitignore
